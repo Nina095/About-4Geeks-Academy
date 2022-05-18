@@ -1,0 +1,129 @@
+template: "online-cv"
+skin: "orange"
+ 
+basic_info:
+ 
+ 
+   first_name: Jasmine
+   last_name: Cedeno
+  
+  
+   motto: Life is too short
+  
+  
+   focus: Learning everything I can about web development.
+  
+  
+   summary: |
+     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  
+ 
+   avatar: https://media-exp1.licdn.com/dms/image/C4D03AQFWMVa6qahy5Q/profile-displayphoto-shrink_800_800/0/1596661064076?e=1617840000&v=beta&t=QGteJrxLl5jsPF79co8hcdmaHF24LK0Bl-O7cRRhY7g
+ 
+  
+   email: cedeno.jasmine95@gmail.com
+   # phone: (954) 851-4246
+   # website: google.com
+   linkedin:
+  
+  
+   github: nina095
+  
+   twitter:
+   # stack-overflow: # Number/Username, e.g. 123456/alandoe
+ 
+  
+   languages:
+     - idiom: English
+       level: Fluent
+ 
+  
+   interests:
+     - item: Yoga
+ 
+     - item: Health & wellness
+ 
+     - item: Traveling
+ 
+ 
+ 
+# education:
+#     - degree: Psychology
+#       university: Florida International University
+#       # optional
+#       university_logo: https://www.vhv.rs/dpng/d/461-4617822_fiu-panther-logo-png-mascot-florida-international-university.png
+#       time: 2014-2018
+#       details: |
+#         Describe your study here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#         sociis natoque penatibus et magnis dis parturient montes, nascetur
+#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#         pretium quis, sem.
+ 
+#           - Bullet point
+#           - Bullet point
+ 
+ 
+experiences:
+#     - role: Web Developer
+#       time: 2022 - present
+#       company: Apple
+#       # optional
+#       company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+#       details: |
+#         Describe your role here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#         Cum sociis natoque penatibus et magnis dis parturient montes,
+#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#         pellentesque eu, pretium quis, sem.
+ 
+#           - Bullet point
+#           - Bullet point
+ 
+# # Your project portfolio
+# projects:
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+ 
+#     assignments:
+#       - title: Postcard
+#         # optional
+#         project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
+ 
+ 
+#       - title: Instagram Feed
+#         # optional
+#         project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
+ 
+#       - title: Instagram Post
+#         # optional
+#         project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+ 
+ 
+# skills:
+#     toolset:
+#       - name: Python & Django
+#         level: 95%
+ 
+#       - name: Javascript & jQuery
+#         level: 95%
+ 
+#       - name: Angular
+#         level: 95%
+ 
+#       - name: HTML5 & CSS
+#         level: 85%
+ 
+#       - name: Ruby on Rails
+#         level: 75%
+ 
+#       - name: Sketch & Photoshop
+#         level: 80%
